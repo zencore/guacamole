@@ -7,6 +7,10 @@
 
 Put into a bowl an mix.
 
+## Suited drinks
+- Gin Tonic
+- Tap water
+
 
 An example repository for introductory **Git** training
 
