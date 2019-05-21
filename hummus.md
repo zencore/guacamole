@@ -1,4 +1,4 @@
-# A recipe for hummus
+# A recipe for hummus, now with conflict!
 
 Also a very nice recipe!
 
