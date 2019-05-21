@@ -1,4 +1,4 @@
-# A recipe for hummus
+# An interesting recipe for hummus
 
 Also a very nice recipe!
 
