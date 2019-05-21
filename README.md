@@ -1,4 +1,12 @@
 # A Recipe for Guacamole
+
+- avocado
+- onion
+- salt & pepper
+
+Put into a bowl an mix.
+
+
 An example repository for introductory **Git** training
 
 <!-- add HTML comment -->
